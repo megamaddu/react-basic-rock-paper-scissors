@@ -1,0 +1,7 @@
+{
+  "main.js": "bundle.js",
+  "react.js": "1.bundle.js",
+  "styles.css": "2.styles.css",
+  "styles.js": "2.bundle.js",
+  "index.html": "index.html"
+}
